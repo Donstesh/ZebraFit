@@ -71,7 +71,7 @@
 }
 
 .gallery-item .gallery-thumb .gallery-zoom:hover, .gallery-item .gallery-thumb .gallery-link:hover {
-    background-color: #ec4141;
+    background-color: #db7c0f;
     color: #ffffff;
 }
 
@@ -120,7 +120,7 @@
     font-size: 1em;
     font-weight: 700;
     position: relative;
-    color: #ec4141;
+    color: #db7c0f;
 }
 
 .gallery-item .gallery-details p {
@@ -158,7 +158,7 @@
 .filter li a:hover,
 .filter li a:focus,
 .filter li a.active {
-    color: #ec4141;
+    color: #db7c0f;
     text-decoration: none;
 }
 
